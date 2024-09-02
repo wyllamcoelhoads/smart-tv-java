@@ -1,0 +1,9 @@
+// classe de operadores.java
+
+
+String nome = "William";
+int idade = 22;
+double peso = 68.5;
+char sexo = 'M';
+booblean doadorOrgam = false;
+Date data Nascimento = new Date();
